@@ -111,6 +111,7 @@ npx cap open android
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0283-move-zeroes/) | Easy |
@@ -143,4 +144,8 @@ npx cap open android
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
