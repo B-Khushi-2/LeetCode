@@ -111,6 +111,7 @@ npx cap open android
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -125,6 +126,7 @@ npx cap open android
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0704-binary-search/) | Easy |
