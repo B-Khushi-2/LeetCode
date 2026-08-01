@@ -115,6 +115,7 @@ npx cap open android
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ npx cap open android
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0704-binary-search](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0704-binary-search/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
