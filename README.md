@@ -129,6 +129,7 @@ npx cap open android
 | [0151-reverse-words-in-a-string](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0283-move-zeroes/) | Easy |
+| [0541-reverse-string-ii](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0541-reverse-string-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ npx cap open android
 | [0151-reverse-words-in-a-string](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0541-reverse-string-ii/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
