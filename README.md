@@ -143,6 +143,7 @@ npx cap open android
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@ npx cap open android
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +168,8 @@ npx cap open android
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0410-split-array-largest-sum/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
