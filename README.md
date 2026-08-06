@@ -111,6 +111,7 @@ npx cap open android
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0035-search-insert-position/) | Easy |
@@ -142,6 +143,7 @@ npx cap open android
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
@@ -172,4 +174,8 @@ npx cap open android
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
