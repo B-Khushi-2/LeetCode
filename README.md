@@ -115,6 +115,7 @@ npx cap open android
 | [0033-search-in-rotated-sorted-array](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -146,6 +147,7 @@ npx cap open android
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
@@ -165,6 +167,7 @@ npx cap open android
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
@@ -179,6 +182,7 @@ npx cap open android
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0242-valid-anagram/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
