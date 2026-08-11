@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
@@ -28,9 +29,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0739-daily-temperatures/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/B-Khushi-2/Tata_Tarang-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
